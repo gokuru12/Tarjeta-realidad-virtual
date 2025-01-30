@@ -1,0 +1,5 @@
+C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/.utmp/RelWithDebInfo/6t1z64x2/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/.utmp/RelWithDebInfo/6t1z64x2/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/.utmp/RelWithDebInfo/6t1z64x2/arm64-v8a/GameActivity/CMakeFiles/game.dir
+C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/.utmp/RelWithDebInfo/6t1z64x2/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/.utmp/RelWithDebInfo/6t1z64x2/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir

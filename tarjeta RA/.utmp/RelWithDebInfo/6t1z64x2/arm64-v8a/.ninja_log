@@ -1,0 +1,10 @@
+# ninja log v5
+16	836	7597924326877353	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	94925ccf99191ff4
+0	872	7597924327244114	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	82901bcc2890cc59
+21	891	7597924327413673	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	b56aa48ddf04c6d4
+25	905	7597924327534296	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	8b2651be43e58bf
+31	972	7597924328195819	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b5a01cfa145520b6
+5	1021	7597924328719246	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	1af337b08f7f0f2f
+12	1175	7597924330233514	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	826346d55be582f7
+9	1313	7597924331551907	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	8a0eec27859f9c88
+1313	1442	7597924333007116	C:/Users/ESTUDIANTES.N00028099/Documents/GitHub/Tarjeta-realidad-virtual/tarjeta RA/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/6t1z64x2/obj/arm64-v8a/libgame.so	f63be8b2736f2c41
